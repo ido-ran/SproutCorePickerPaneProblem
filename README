@@ -1,7 +1,3 @@
-=============================================================================
-Project:   PickerPaneProb
-Copyright: ©2011 My Company, Inc.
-=============================================================================
-
-TODO: Describe Your Project
-
+This demo application show a problem with SproutCore PickerPane on Internet Explorer.
+When you push the button on Chrome and Safari a PickerPane is display on most of the screen.
+When you push the button on Internet Explorer 8 the PickerPane is display but not as needed just as a slim line on the top of the window.
